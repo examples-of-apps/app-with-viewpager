@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+	<color name="orange">#00ff00</color>
+	
+	<color name="primary">#00ff00</color>
+
+</resources>
